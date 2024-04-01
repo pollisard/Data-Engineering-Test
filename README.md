@@ -1,6 +1,4 @@
-# LabHouse
-Data Engineering Test
-
+# Data Engineering Test
 This repo hosts the answers to LabHouse's Data Engineering Test by Pol Martinez.
 
 * Exercise 1
