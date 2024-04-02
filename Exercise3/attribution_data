@@ -1,0 +1,8 @@
+For the Attribution historical data issue we should follow the following steps:
+
+1. Export latest data: Implement daily exports from the BigQuery database to Google Cloud.
+   Set it up so it only takes new data missing from last execution.
+3. Data archiving: Set up a data archiving process that runs daily after the export to store
+   the exported data in a long-term storage solution.
+4. Define data retention policy: Determine how long we need to retain the historical data
+   based on business requirements.
